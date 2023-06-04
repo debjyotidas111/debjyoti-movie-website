@@ -1,0 +1,15 @@
+.search{
+    display: flex;
+    padding-top: 30px;
+    justify-content: center; 
+     color: #898F9C;
+}
+
+.search input{
+        background-color: #ffffff;
+        color: #898F9C;
+        padding: 0.7em 2em;
+        text-align: center;
+        width: 60%;
+      
+}
