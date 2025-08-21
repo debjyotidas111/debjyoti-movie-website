@@ -1,0 +1,7 @@
+The productivity of the support team over the period of five months showed an initial hike in February (38 tickets per person per week) but after that, they were on a downward trend which culminated in their lowest point in April (28) and then a small increase in May (30).
+
+There were probably several reasons for this change. The rise in sick leaves that occurred in April lowered the team capacity, while the increase in average handling time from 15 to 19 minutes indicates that the tickets may have become more intricate. Furthermore, even though the training in March was centered on soft skills, it might have temporarily disrupted the team's productivity.
+
+The decrease in performance seems to be significant and not just random noise because it persisted for several months. Nonetheless, customer satisfaction stayed at the same level, which means that the quality of the work has not been compromised despite the lower throughput.
+
+For an increase in performance, my suggestion is that workload distribution should be optimized and efficiency refresher training should be introduced. This would assist in managing the quality and speed simultaneously without causing productivity to take a dip.
